@@ -34,15 +34,15 @@ Export results into structured CSV reports.
 
 
 
-✅ Scrapes Walmart product listings automatically
+ Scrapes Walmart product listings automatically
 
-✅ Filters out items sold by only Walmart or single sellers
+ Filters out items sold by only Walmart or single sellers
 
-✅ Extracts reviews and sorts by most recent
+ Extracts reviews and sorts by most recent
 
-✅ Counts reviews for a specific month/year
+ Counts reviews for a specific month/year
 
-✅ Saves results in CSV format:
+ Saves results in CSV format:
 
 
 
@@ -167,5 +167,7 @@ Deploy as a web dashboard for real-time product research.
 Developed by Muhammad
 
 📩 For freelancing \& collaboration: https://www.linkedin.com/in/muhammadjk/
+
 Email: mhm.jutk@gmail.com
+
 
